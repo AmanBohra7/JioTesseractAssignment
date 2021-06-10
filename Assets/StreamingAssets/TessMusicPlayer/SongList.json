@@ -1,0 +1,24 @@
+{
+    "Songs" : [
+        {
+            "Title" : "1",
+             "Path" : "song_1.mp3"
+        },
+        {
+            "Title" : "2",
+            "Path" : "song_2.mp3"
+        },
+        {
+            "Title" : "3",
+            "Path" : "song_3.mp3"
+        },
+        {
+            "Title" : "4",
+            "Path" : "song_4.mp3"
+        },
+        {
+            "Title" : "5",
+            "Path" : "song_5.mp3"
+        }
+     ]
+}
